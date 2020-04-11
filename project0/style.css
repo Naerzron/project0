@@ -1,0 +1,16 @@
+table {
+  overflow-x: auto;
+  background-color: ivory;
+  border-radius: 3mm;
+  border-collapse: collapse;
+  text-align: center;
+}
+table th, table td {
+  padding: 10px;
+}
+.img-notice{
+  width: 47.25vw;
+  height: 60vh;
+  border-radius: 1mm;
+}
+/*# sourceMappingURL=style.css.map */

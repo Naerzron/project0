@@ -1,0 +1,16 @@
+$color: ivory;
+
+table{
+    overflow-x:auto;
+    background-color: $color;
+    border-radius: 3mm;
+    border-collapse: collapse;
+    text-align: center;
+
+  th, td{
+  padding: 10px;
+  }
+}
+
+
+
